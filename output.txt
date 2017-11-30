@@ -1,0 +1,23 @@
+Nandith Malapati
+UIN : 01066678
+127.0.0.1:8080
+Address: 127.0.0.1, Port: 8080
+127.a.0.10:8081
+Error in line
+127.0.0.1:8080.1
+Error in line
+127.0.10.5:-8080
+Error in line
+127:0.0.0.8081
+Error in line
+a.a.a.a:8080a
+Error in line
+1.2.3.4:808aa
+Error in line
+1.2.3.4:-98
+Error in line
+
+
+Summary
+Lines Read: 8
+Number of Errors: 7
